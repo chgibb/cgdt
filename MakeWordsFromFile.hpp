@@ -1,6 +1,5 @@
 /*
 	Author: Chris Gibb
-    Contact: cgibb@lakeheadu.ca
 */
 #pragma once
 #include <string>
