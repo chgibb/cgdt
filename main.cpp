@@ -1,6 +1,5 @@
 /*
 	Author: Chris Gibb
-    Contact: cgibb@lakeheadu.ca
 
     Simple command line utility to transfer data and check for transfer integrity.
 
